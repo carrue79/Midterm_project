@@ -1,7 +1,7 @@
 # My simulation project
 
 Midterm project using tkinter and simulating computer networks. It's the light version of "Game of life" simulation with my own rules. 
-There are pink and blue rectangles that represent girls and boys. This idea is related to tasks in biology on the topic of genetics. 
+There are pink and blue rectangles that represent X chromosomes and Y chromosomes. This idea is related to tasks in biology on the topic of genetics. 
 
 ## Rules of simulation:
 - Rule 1: If there are two pink cells in the neighbour's cells, then a girl is born.
